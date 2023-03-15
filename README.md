@@ -1,4 +1,4 @@
-# Platform SDK
+# Platform SDK for Node
 
 Hello, we are glad to introduce Tulip Protocol's Platform SDK to fellow Solana Developers!\
 You can use this SDK to easily integrate Tulip Protocol's Vaults into your product. Cheers 🍻
